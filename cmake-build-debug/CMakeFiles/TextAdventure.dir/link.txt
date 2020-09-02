@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TextAdventure.dir/main.c.o  -o TextAdventure 
